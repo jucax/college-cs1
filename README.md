@@ -7,6 +7,7 @@ Exercises and projects done during my first semester of my freshman year, the ex
 ##  Sections:
 1. Lecture Questions
 2. Skills Labs
-3. Projects
+3. Assigments
+4. Projects
     - Wordle
     - Sudoku
