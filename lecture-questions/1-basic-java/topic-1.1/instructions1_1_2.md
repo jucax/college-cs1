@@ -2,8 +2,9 @@
 ## Exercise 2 / 6
 ### Instructions:
 TASK: **Print the following in a single line of code**
-'''
-Hello, “Newman”
+
+```
+Hello, “Newman” 
 
 Hello, ‘Jerry\Kramer’!
-'''
+```
