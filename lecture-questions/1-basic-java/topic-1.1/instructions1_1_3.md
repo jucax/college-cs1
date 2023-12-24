@@ -1,4 +1,4 @@
-# 1.2 Primitive data, variables and I/O lecture questions 
+# 1.1 Primitive data, variables and I/O lecture questions 
 ## Exercise 3 / 6
 ### Instructions:
 TASK: Create the following variables:

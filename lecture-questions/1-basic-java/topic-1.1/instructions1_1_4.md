@@ -1,4 +1,4 @@
-# 1.2 Primitive data, variables and I/O lecture questions 
+# 1.1 Primitive data, variables and I/O lecture questions 
 ## Exercise 4 / 6
 ### Instructions:
 TASK: Write a program that does the following:
@@ -13,4 +13,5 @@ TASK: Write a program that does the following:
 You should decide what types to use 
 
 NOTE: In the lecture slides we used `System.out.print` for scanner prompts. For this problem, please use `System.out.println` to print out the user prompts.
+
 NOTE: You don't need to write the code to declare the class or the main method. You also don't need to `import` anything. We've done that behind the scenes. Just write the `Scanner` code.
