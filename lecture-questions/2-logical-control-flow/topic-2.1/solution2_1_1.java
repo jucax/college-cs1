@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class solution2_1_1 {
     public static void main (String[] args) {
-        Scanner scanner = new Scanner();
+        Scanner scanner = new Scanner(System.in);
         int cardValue = scanner.nextInt();
 
         System.out.println("The card value is " + cardValue);
