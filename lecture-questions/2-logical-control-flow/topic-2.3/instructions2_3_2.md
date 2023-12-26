@@ -8,6 +8,7 @@ int size = ???; // size can have any positive int value
 ```
 
 TASK: Write a program that prints out an “asterisk triangle” of with exactly `size` rows. An "asterisk triangle" has exactly `size` rows; the first row has 1 asterisk, the second row has two asterisks, and so on; the last row has exactly `size` asterisks.
+
 EXAMPLE: if `size` were `5`, you would print out the following:
 
 ```
