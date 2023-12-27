@@ -1,18 +1,12 @@
 public class solution3_1_1 {
     public static void main (String[] args) {        
-        Scanner scanner = new Scanner(System.in);
-        int num = scanner.nextInt();
+        int numbers[] = {1, 2, 3, 4, 5, 6, 7, 8};
 
-        boolean hasOddFactor = false;
         int rest = 0;
-
-        for (int i = 3; i <= num; i += 2) {
-            rest = num % i;
-            if (rest == 0) {
-                hasOddFactor = true;
-                break;
-            } else {
-                hasOddFactor = false;
+        for (int i = 0; i < numbers.length; i++){
+            rest = numbers[i] % 2;
+            if (rest == 0){
+                System.out.println(numbers[i]);    
             }
         }
     }
