@@ -139,5 +139,3 @@ After you finish writing the code, write a reflection that answers each of the f
 - As mentioned above, we know that `maxGuesses` will always be 6. Despite this, we took the trouble to calculate maxGuesses as the number of letters in the word plus one.
     - What is the benefit of making a variable called maxGuesses instead of just using the number 6 throughout our code?
     - What is the benefit of calculating `maxGuesses` (by adding 1 to the length of the word) in the way that we did instead of directly initializing it to 6?
-
-Additionally, if you received help from another student in the class or from a departmental tutor, please state what help you received and which parts of the assignment you received help on.

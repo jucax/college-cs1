@@ -210,5 +210,3 @@ After you finish writing the code, write a reflection that answers each of the f
 - How would your program behave if the user entered a `String` that was not exactly 5 letters long? Why?
 - What will happen if a user guesses a word that has repeat letters? Why?
 - Explain how and why you made use of a variable or variables to count the number of correct letters.
-
-Additionally, if you received help from another student in the class or from a departmental tutor, please state what help you received and which parts of the assignment you received help on.
