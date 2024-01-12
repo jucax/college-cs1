@@ -6,6 +6,10 @@ Wordle is a web-based word game in which the player tries to guess a 5-letter wo
 2. **Misplaced:** the letter is part of the word, but it is in the wrong position
 3. **Correct:** the letter is in the correct position
 
+Here is a picture that illustrates the gameplay:
+
+![wordle-example](projects/images/wordle-example.png)
+
 The player managed to guess the word in four guesses. After each guess, the game tells the player how “correct” each letter is. Gray letters are incorrect, yellow letters are misplaced, and green letters are correct.
 
 If you are still unsure or curious, try playing the game yourself! The New York Times posts a new Wordle word each day.

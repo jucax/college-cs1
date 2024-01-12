@@ -46,4 +46,5 @@ Alright - let’s start building a Sudoku!
 We are going to represent the Sudoku grid as a 2-D array. Every value in the array will contain an int between `0` and `9`, corresponding to what value is that at row/column. The value `0` is used as a placeholder to represent a blank square.
 
 Consider the following example:
-![alt text](https://github.com/jucax/college-cs1/blob/59b50129ec7f20979e569d7a85d17f742b748b86/projects/images/sudoku-example.png?raw=true)
+
+![sudoku-example](projects/images/sudoku-example.png)
