@@ -8,7 +8,7 @@ Wordle is a web-based word game in which the player tries to guess a 5-letter wo
 
 Here is a picture that illustrates the gameplay:
 
-![wordle-example](projects/images/wordle-example.png)
+![wordle-example](https://github.com/jucax/college-cs1/blob/59b50129ec7f20979e569d7a85d17f742b748b86/projects/images/wordle-example.png?raw=true)
 
 The player managed to guess the word in four guesses. After each guess, the game tells the player how “correct” each letter is. Gray letters are incorrect, yellow letters are misplaced, and green letters are correct.
 

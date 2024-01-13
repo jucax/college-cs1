@@ -6,6 +6,17 @@ Sudoku is a puzzle in which you try to fill a grid with numbers according to cer
 - You cannot have the same number appear twice in the same column
 - You cannot have the same number appear twice in the same “box”
 
+Here is a picture of what it looks like:
+
+![sudoku-example](https://github.com/jucax/college-cs1/blob/59b50129ec7f20979e569d7a85d17f742b748b86/projects/images/sudoku-example.png?raw=true)
+
+First, notice how the darker lines divide it into nine 3x3 “boxes”. You can’t have the same number appear twice in the same box.
+
+Take a look at row 7, column 9:
+- You can’t put a 2, 6, of 8 in that square because you would be violating the “same row” rule
+- You can’t put a 1, 3, 5, 6, or 9 in that square because you would be violating the “same column” rule
+- You can’t put a 2, 5, 7, 8, or 9 in that square because you would be violating the “same box” rule.
+
 For this project, you will be writing code that allows a user to interactively solve a sudoku puzzle. Eventually, you will write code that gives the user the option to give up and have the computer solve the Sudoku automatically. 
 
 ## Programming Style
