@@ -24,7 +24,7 @@ Write a `private` method called `getBoxValues`. This method has a single int par
 
 The parameter `box` will be a box number between 1 and 9. Here is a diagram that shows which squares correspond to which box:
 
-![sudoku-example](https://github.com/jucax/college-cs1/blob/59b50129ec7f20979e569d7a85d17f742b748b86/projects/images/sudoku-example.png?raw=true)
+![sudoku-boxes](https://github.com/jucax/college-cs1/blob/e9dbc41844579fc7b1d13d3609fc6fc6b6645d84/projects/images/sudoku-boxes.png?raw=true)
 
 Here are some examples from the example grid we’ve been using:
 - `getBoxValues(1)` should return an `ArrayList<Integer>` containing `5`, `3`, `6`, `9`, and `8` (in any order)
