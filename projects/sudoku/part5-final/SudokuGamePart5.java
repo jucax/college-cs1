@@ -22,7 +22,7 @@ public class SudokuGamePart5
                 int val = scanner.nextInt();
 
                 //We verify if the row value is valid, if not then prompt the user and repeat the loop
-                if (!(row >= 1 && row <= 9)) { //Row has to be between 1 - 9
+                if (!(row >= 1 && row <= 9))  //Row has to be between 1 - 9
                     System.out.println("Invalid row");
                     System.out.println();
                     continue;
